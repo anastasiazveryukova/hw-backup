@@ -28,6 +28,7 @@
 Необходимо исключить из синхронизации все директории, начинающиеся с точки (скрытые)
 Необходимо сделать так, чтобы rsync подсчитывал хэш-суммы для всех файлов, даже если их время модификации и размер идентичны в источнике и приемнике.
 На проверку направить скриншот с командой и результатом ее выполнения
+
 <img width="980" height="467" alt="Снимок1" src="https://github.com/user-attachments/assets/7f46bb90-2ec2-442c-ad23-9369facadc7d" />
 
 <img width="984" height="476" alt="Снимок2" src="https://github.com/user-attachments/assets/fbdf7c1f-7c19-4d71-8baa-75f3a4e26ef0" />
@@ -44,4 +45,5 @@
 <img width="973" height="437" alt="Снимок3" src="https://github.com/user-attachments/assets/52a4e502-a6fb-4f34-b087-24dfec8c8036" />
 
 <img width="980" height="448" alt="Снимок 4" src="https://github.com/user-attachments/assets/d2874acd-041a-4d3c-822f-9affabc49e6b" />
+
 Скрипт backup.sh   https://github.com/anastasiazveryukova/-/blob/8fdb9605c9bc55f8ebde0fa761bd72d58f3f1e1d/backup.sh
